@@ -49,6 +49,9 @@ The game environment is designed with complex terrains, hidden areas, and detail
 	•	Avoid Hazards: Be mindful of environmental hazards such as traps and enemies.
 	•	Discover Hidden Areas: Look for hidden passages and secret areas that contain valuable items and shortcuts.
 
+For example, as we can see from option d and 3, there's more new maps and new NPCs.
+<img width="552" alt="Screenshot 2024-08-14 at 7 22 52 PM" src="https://github.com/user-attachments/assets/e9ddbf19-2f77-405c-95b4-43d0d031b05c">
+
 ## Conclusion
 
 The Designborne project was a comprehensive exercise in object-oriented design and implementation, allowing for practical application of theoretical concepts. Through iterative development and detailed design documentation, the project provided a robust framework for developing complex software systems.
