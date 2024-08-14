@@ -6,7 +6,7 @@ Welcome to Designborne, a text-based rogue-like game inspired by popular titles 
 
 <img width="1009" alt="Screenshot 2024-08-14 at 6 45 05 PM" src="https://github.com/user-attachments/assets/8cb606bd-563b-479c-b85f-93adf99779bc">
 
-## Project Overview
+## Project Overview 
 
 For the duration of the semester, I worked on this relatively large software project to design and implement new functionalities into an existing system. The project was divided into three main assignments, each building upon the previous one. The assignments focused on iterative design, development, and testing to ensure a well-developed and refined game system.
 
@@ -67,6 +67,7 @@ For more details and the complete source code, please refer to the project repos
 
 In Assignment 1, the primary focus was on implementing the initial features of the game. This involved understanding the provided codebase, extracting the required game features, and iteratively designing and testing the system. The initial codebase was provided through a repository on git.infotech.monash.edu, and extensive support was available through Ed Lesson modules.
 
+[Detailed Instructions for Assignment 1] (https://github.com/user-attachments/files/16612175/Assignment.1.-.instruction.pdf)
 
 #### Second Project: Enhanced Features and Documentation
 
