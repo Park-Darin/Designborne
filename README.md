@@ -30,7 +30,7 @@ When you start the game, your character will spawn in the initial map. Here’s 
 
 	•	Move South: Head south to find and collect the Broadsword("1"), a powerful weapon essential for your survival.
    <img width="675" alt="Screenshot 2024-08-14 at 6 51 19 PM" src="https://github.com/user-attachments/assets/c2f1c52f-09eb-4534-be94-68dcb096aa46">
-  • Attack Wandering Undead("t") : Move player to find Wandering Undead to get Old key("-") from attacking them. (Shown in option e in screenshot below)
+   	•	Attack Wandering Undead("t") : Move player to find Wandering Undead to get Old key("-") from attacking them. (Shown in option e in screenshot below)
    <img width="849" alt="Screenshot 2024-08-14 at 7 10 08 PM" src="https://github.com/user-attachments/assets/fecd0a74-dbc6-40fb-879b-fbb46e4ba9a4">
 	•	Unlock the Gate("=") with Old key : You can use unlocked gate to transition to another map, where new challenges await. (Shown in option d in screenshot below)
   <img width="567" alt="Screenshot 2024-08-14 at 7 12 45 PM" src="https://github.com/user-attachments/assets/17157a1f-dbc5-4cf8-a293-3c3681f7a159">
