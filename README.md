@@ -59,7 +59,9 @@ The Designborne project was a comprehensive exercise in object-oriented design a
 For more details and the complete source code, please refer to the project repository.
 
 
-### Assignments Breakdown Details
+
+
+## Assignments Breakdown Details
 
 #### First project: Initial Implementation
 
