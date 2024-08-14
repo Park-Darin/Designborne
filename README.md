@@ -67,13 +67,18 @@ For more details and the complete source code, please refer to the project repos
 
 In Assignment 1, the primary focus was on implementing the initial features of the game. This involved understanding the provided codebase, extracting the required game features, and iteratively designing and testing the system. The initial codebase was provided through a repository on git.infotech.monash.edu, and extensive support was available through Ed Lesson modules.
 
-[Detailed Instructions for Assignment 1] (https://github.com/user-attachments/files/16612175/Assignment.1.-.instruction.pdf)
+[Detailed Instructions for Assignment 1](https://github.com/user-attachments/files/16612198/Assignment.1.-.instruction.pdf)
+
 
 #### Second Project: Enhanced Features and Documentation
 
 Assignment 2 expanded on the initial implementation by adding more complex features and requiring the submission of design documents, including interaction diagrams (sequence or communication diagrams). This phase involved refining the game mechanics and ensuring better game flow and functionality.
 
+[Detailed Instructions for Assignment 2](https://github.com/user-attachments/files/16612202/Assignment.2.-.instruction.pdf)
+
 
 #### Third project: Final Features and Polishing
 
 In Assignment 3, the focus was on finalizing the game by adding the remaining features, polishing existing ones, and ensuring overall game stability. This phase required extensive testing and debugging to deliver a robust and engaging game experience.
+
+[Detailed Instructions for Assignment 3](https://github.com/user-attachments/files/16612205/Assignment.3.-.instruction.pdf)
